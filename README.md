@@ -1,1 +1,1 @@
-# foodmunch
+Developed a responsive static website for a food-related platform named "Food Munch." The website showcases various food categories, menus, and services with an aesthetically pleasing and user-friendly design.# foodmunch
